@@ -1,13 +1,13 @@
 {
-  "name": "test",
-  "description": "test",
+  "name": "teas dsa dasd as das dasdt",
+  "description": "testas dsa dasdasds ad sad",
   "icons": {
     "512": "test-firefox-manifest/img/icon-512.png",
     "128": "test-firefox-manifest/img/icon-128.png"
   },
   "developer": {
     "name": "t",
-    "url": "ttt"
+    "url": "http://google.com"
   },
   "default_locale": "en"
 }
