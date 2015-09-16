@@ -1,14 +1,13 @@
 {
-  "name": "My App",
-  "description": "My elevator pitch goes here",
-  "launch_path": "/index.html",
+  "name": "teas dsa dasd as das dasdt",
+  "description": "testas dsa dasdasds ad sad",
   "icons": {
-    "512": "/img/icon-512.png",
-    "128": "/img/icon-128.png"
+    "512": "test-firefox-manifest/img/icon-512.png",
+    "128": "test-firefox-manifest/img/icon-128.png"
   },
   "developer": {
-    "name": "Your name or organization",
-    "url": "http://your-homepage-here.org"
+    "name": "t",
+    "url": "http://google.com"
   },
   "default_locale": "en"
 }
