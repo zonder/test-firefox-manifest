@@ -1,0 +1,13 @@
+{
+  "name": "Sparta: War of Empires",
+  "description": "Destiny calls. Will you die a wretched slave, or stand firm as a hero? Greece stands on the brink of disaster. Sparta struggles to unite a thousand rival cities in time to stop the rising tide of a Persian invasion. Victory promises a new golden age - failure will see the forces of Xerxes wipe the free Greek civilization from the face of the ancient world. Raise your shield, lift your spear, and join formation. Do you have what it takes to fight with Sparta?",
+  "launch_path": "/en/strategy-games/sparta-war-of-empires/",
+  "icons": {
+    "128": "http://zonder.github.io/test-firefox-manifest/img/sparta-128.png"
+  },
+  "developer": {
+    "name": "Plarium",
+    "url": "http://company.plarium.com/"
+  },
+  "default_locale": "en"
+}
